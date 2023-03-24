@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lsu5a74eypk4jx7x?svg=true)](https://ci.appveyor.com/project/arbprog/ahj-anim)
